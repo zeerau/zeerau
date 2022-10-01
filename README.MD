@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **node.js, express.js,vue**
 
-- 💬 Ask me about **html,css, JavaScript and got**
+- 💬 Ask me about **html,css, JavaScript and git**
 
 - 📫 How to reach me **zeerabaidu@gmail.com**
 
