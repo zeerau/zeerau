@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/zeerau](github.com/zeerau)
 
-- 📝 I regularly write articles on [http://www.medium.com/zeerabaidu](http://www.medium.com/zeerabaidu)
+- 📝 I regularly write articles on [http://www.medium.com/zeerabaidu](http://www.medium.com/@zeerabaidu)
 
 - 💬 Ask me about **SQL,Python,Data Analysis with spreadsheets**
 
