@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/umm_inteesar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umm_inteesar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zaraubaidu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaraubaidu" height="30" width="40" /></a>
-<a href="https://hashnode.com/@zeerau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@zeerau" height="30" width="40" /></a>
+<a href="https://zeerau.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@zeerau" height="30" width="40" /></a>
 <a href="https://medium.com/@zeerabaidu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zeerabaidu" height="30" width="40" /></a>
 </p>
 
