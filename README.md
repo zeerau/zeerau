@@ -21,6 +21,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Machine Learning](https://medium.com/@zeerabaidu/introduction-to-machine-learning-c8289518f674?source=rss-d747098a9242------2)
+- [exploring the power of numpy array](https://medium.com/@zeerabaidu/exploring-the-power-of-numpy-array-1f901e7d1d59?source=rss-d747098a9242------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
