@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Unethical data practice: A case study on email marketers](https://medium.com/@zeerabaidu/unethical-data-practice-a-case-study-on-marketers-e3b6f84ec161?source=rss-d747098a9242------2)
 - [Introduction to Machine Learning](https://medium.com/@zeerabaidu/introduction-to-machine-learning-c8289518f674?source=rss-d747098a9242------2)
 - [exploring the power of numpy array](https://medium.com/@zeerabaidu/exploring-the-power-of-numpy-array-1f901e7d1d59?source=rss-d747098a9242------2)
 <!-- BLOG-POST-LIST:END -->
