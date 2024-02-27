@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to get and know your data with pandas](https://medium.com/@zeerabaidu/how-to-get-and-know-your-data-with-pandas-5af2e737cd2a?source=rss-d747098a9242------2)
 - [Numpy Array Manipulation Methods Every Data Scientist Needs To Know](https://medium.com/@zeerabaidu/numpy-array-manipulation-methods-every-data-scientist-needs-to-know-d5a0d26ba6af?source=rss-d747098a9242------2)
 - [Data Ethics Challenges: A Case Study On Algorithm Design](https://medium.com/@zeerabaidu/unethical-data-practice-a-case-study-on-marketers-e3b6f84ec161?source=rss-d747098a9242------2)
 - [Introduction to Machine Learning](https://medium.com/@zeerabaidu/introduction-to-machine-learning-c8289518f674?source=rss-d747098a9242------2)
