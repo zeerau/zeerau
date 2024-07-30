@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zarau Bello Baidu</h1>
-<h3 align="center">A passionate Data Sceintist</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeerau" alt="zeerau" /></a> </p>
 
-- 🌱 I’m currently learning **SQL,Python and BI Tools**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Database Administration,Data analysis,Machine Learning,data science**
 
@@ -11,11 +11,11 @@
 
 - 📝 I regularly write articles on [http://www.medium.com/zeerabaidu](http://www.medium.com/@zeerabaidu)
 
-- 💬 Ask me about **SQL,Python,Data Analysis,Data Manipulation**
+- 💬 Ask me about **SQL,Python,Data Analysis,Data Cleaning,Machine Learning**
 
 - 📫 How to reach me **zeerabaidu@gmail.com**
 
-- ⚡ Fun fact **i am a foodie**
+- ⚡ Fun fact **i love coding**
 
 
 
