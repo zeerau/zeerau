@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [working with categorical data in python](https://medium.com/@zeerabaidu/working-with-categorical-data-in-python-d47ad98becaf?source=rss-d747098a9242------2)
 - [5 Common regression evaluation metrics](https://medium.com/@zeerabaidu/5-common-regression-evaluation-metrics-41c63117fbd5?source=rss-d747098a9242------2)
 - [how to visualize data with matplotlib](https://medium.com/@zeerabaidu/how-to-visualize-quantity-distribution-in-matplotlib-1289f8f1d960?source=rss-d747098a9242------2)
 - [Data preparation with pandas](https://medium.com/@zeerabaidu/data-preparation-with-pandas-c83ee672cbb1?source=rss-d747098a9242------2)
 - [How to get and know your data with pandas](https://medium.com/@zeerabaidu/how-to-get-and-know-your-data-with-pandas-5af2e737cd2a?source=rss-d747098a9242------2)
-- [Numpy Array Manipulation Methods Every Data Scientist Needs To Know](https://medium.com/@zeerabaidu/numpy-array-manipulation-methods-every-data-scientist-needs-to-know-d5a0d26ba6af?source=rss-d747098a9242------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
