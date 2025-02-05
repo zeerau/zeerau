@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeerau" alt="zeerau" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m a **Data Scientist/Cloud Engineer**
 
-- 👯 I’m looking to collaborate on **Database Administration,Data analysis,Machine Learning,data science**
+- 👯 I’m looking to collaborate on **Database Administration,Data analysis,Machine Learning,data science,deep learning**
 
 - 👨‍💻 All of my projects are available at [github.com/zeerau](github.com/zeerau)
 
 - 📝 I regularly write articles on [http://www.medium.com/zeerabaidu](http://www.medium.com/@zeerabaidu)
 
-- 💬 Ask me about **SQL,Python,Data Analysis,Data Cleaning,Machine Learning**
+- 💬 Ask me about **SQL,Python,Data Analysis,Data Cleaning,Machine Learning,Deep Learning,Pytorch,Azure**
 
-- 📫 How to reach me **zeerabaidu@gmail.com**
+- 📫 Reach me **zeerabaidu@gmail.com**
 
-- ⚡ Fun fact **i love coding**
+- ⚡ Fun fact **i am a foodie**
 
 
 
