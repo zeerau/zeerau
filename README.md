@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Zarau Bello Baidu</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A Data Consultant</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeerau" alt="zeerau" /></a> </p>
 
-- 🌱 I’m a **Data Scientist/Cloud Engineer**
+- 🌱 I’m a **Data Scientist/AI Engineer**
 
-- 👯 I’m looking to collaborate on **Database Administration,Data analysis,Machine Learning,data science,deep learning**
+- 👯 I’m looking to collaborate/work on **Machine Learning, Data Analysis, Data Science, Deep Learning, Natural Language Processing, Agentic AI**
 
 - 👨‍💻 All of my projects are available at [github.com/zeerau](github.com/zeerau)
 
 - 📝 I regularly write articles on [http://www.medium.com/zeerabaidu](http://www.medium.com/@zeerabaidu)
 
-- 💬 Ask me about **SQL,Python,Data Analysis,Data Cleaning,Machine Learning,Deep Learning,Pytorch,Azure**
+- 💬 Ask me about **Predictive Models, Transformer, Customer Churn Prediction, Sentiment Analysis, Agentic AI**
 
 - 📫 Reach me **zeerabaidu@gmail.com**
 
